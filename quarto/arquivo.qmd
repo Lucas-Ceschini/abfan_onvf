@@ -1,0 +1,12 @@
+---
+title: "Arquivo"
+listing:
+  contents: posts
+  type: table
+  sort: "date desc"
+  fields: [date, title, categories, description]
+---
+
+## Arquivo de Publicações
+
+Todos os posts do blog da ABFAN ficam listados aqui. Esta página pode crescer com novos artigos, PDFs comentados, notícias institucionais e estudos publicados.

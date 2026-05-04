@@ -1,0 +1,19 @@
+---
+title: "Boas-vindas ao blog de artigos e estudos da ABFAN"
+date: 2026-05-03
+description: "Apresentação do novo espaço editorial da ABFAN em Quarto."
+categories: [institucional, blog]
+---
+
+Este blog foi criado para reunir artigos, estudos, notas institucionais e referências sobre famílias numerosas no Brasil.
+
+Ele funciona como um espaço editorial da ABFAN e pode receber:
+
+- artigos próprios;
+- análises de políticas familiares;
+- comentários sobre pesquisas e publicações;
+- links para materiais públicos e PDFs.
+
+A estrutura já está pronta para crescer com novas publicações ao longo do tempo.
+
+Quem quiser publicar novos estudos pode usar o modelo disponível em `quarto/modelos/post-estudo.qmd`.

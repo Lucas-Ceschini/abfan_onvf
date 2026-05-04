@@ -1,0 +1,25 @@
+---
+title: "Publicar Estudos"
+---
+
+## Estrutura pronta para novas postagens
+
+O blog já está preparado para receber novas publicações de estudos no diretório `posts/`. Para cada novo estudo:
+
+1. crie uma nova pasta em `posts/` com um nome curto, como `nome-do-estudo`;
+2. copie o arquivo modelo disponível em `modelos/post-estudo.qmd`;
+3. salve esse conteúdo como `posts/nome-do-estudo/index.qmd`;
+4. ajuste título, data, descrição, categorias e texto;
+5. rode `quarto render` ou `quarto preview`.
+
+## Campos recomendados
+
+- `title`: título público do estudo
+- `date`: data da publicação
+- `description`: resumo curto para a listagem
+- `categories`: use `estudos` e outras etiquetas como `demografia`, `educação`, `políticas familiares`
+- `author`: autoria institucional ou individual
+
+## Modelo
+
+O arquivo-base para novas publicações está em `quarto/modelos/post-estudo.qmd`.

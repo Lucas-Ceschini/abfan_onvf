@@ -1,0 +1,25 @@
+---
+title: "Título do estudo"
+date: 2026-05-03
+description: "Resumo curto do estudo para aparecer nas listagens."
+categories: [estudos, tema]
+author: "ABFAN"
+---
+
+## Resumo
+
+Apresente aqui o objetivo principal do estudo, a pergunta central e o contexto.
+
+## Principais pontos
+
+- destaque 1
+- destaque 2
+- destaque 3
+
+## Análise
+
+Desenvolva aqui a leitura do estudo, os achados mais importantes e sua relevância para a ABFAN.
+
+## Referências
+
+- informe links, PDFs ou fontes consultadas

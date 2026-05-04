@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/boas-vindas/index.html",
+      "/posts/referencias-iniciais/index.html"
+    ]
+  },
+  {
+    "listing": "/estudos.html",
+    "items": [
+      "/posts/referencias-iniciais/index.html"
+    ]
+  },
+  {
+    "listing": "/arquivo.html",
+    "items": [
+      "/posts/boas-vindas/index.html",
+      "/posts/referencias-iniciais/index.html"
+    ]
+  }
+]

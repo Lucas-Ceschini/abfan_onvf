@@ -1,0 +1,22 @@
+---
+title: "Blog ABFAN"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [title, date, categories, description]
+page-layout: article
+---
+
+::: {.hero-banner}
+## Artigos e Estudos da ABFAN
+
+Este blog em Quarto concentra publicações, notas, estudos e referências ligadas à Associação Brasileira de Famílias Numerosas.
+
+[Acessar estudos](estudos.qmd){.btn-primary}
+[Como publicar](guia-postagens.qmd){.btn-secondary}
+[Visitar abfanonvf.ocm](https://abfan.developforweb.com.br/){.btn-secondary target="_blank"}
+:::
+
+## Publicações Recentes

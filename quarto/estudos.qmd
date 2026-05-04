@@ -1,0 +1,16 @@
+---
+title: "Estudos"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  filter-ui: false
+  include:
+    categories: estudos
+  fields: [title, date, categories, description]
+---
+
+## Publicações de Estudos
+
+Esta página reúne apenas as postagens classificadas como `estudos`. Use essa estrutura para publicar análises, resenhas, relatórios, notas técnicas e comentários sobre pesquisas.

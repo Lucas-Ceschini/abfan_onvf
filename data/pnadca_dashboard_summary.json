@@ -1,0 +1,103 @@
+{
+  "source": "IBGE SIDRA - PNAD Contínua Anual",
+  "territory": "Brasil",
+  "latest_year": 2025,
+  "focus": "Domicílios com 6 moradores ou mais",
+  "cards": {
+    "large_households_mil": 2225.0,
+    "large_households_share_pct": 2.8,
+    "change_since_first_year_mil": -1428.0,
+    "change_since_first_year_pct": -39.1,
+    "ratio_vs_five_pct": 48.4,
+    "share_inside_five_plus_pct": 32.6,
+    "gap_vs_five_mil": -2372.0
+  },
+  "trend_large_households": [
+    {
+      "ano": 2016,
+      "domicilios_mil": 3653.0,
+      "participacao_pct": 5.5
+    },
+    {
+      "ano": 2017,
+      "domicilios_mil": 3551.0,
+      "participacao_pct": 5.3
+    },
+    {
+      "ano": 2018,
+      "domicilios_mil": 3381.0,
+      "participacao_pct": 4.9
+    },
+    {
+      "ano": 2019,
+      "domicilios_mil": 3205.0,
+      "participacao_pct": 4.6
+    },
+    {
+      "ano": 2022,
+      "domicilios_mil": 2973.0,
+      "participacao_pct": 4.1
+    },
+    {
+      "ano": 2023,
+      "domicilios_mil": 2538.0,
+      "participacao_pct": 3.3
+    },
+    {
+      "ano": 2024,
+      "domicilios_mil": 2305.0,
+      "participacao_pct": 3.0
+    },
+    {
+      "ano": 2025,
+      "domicilios_mil": 2225.0,
+      "participacao_pct": 2.8
+    }
+  ],
+  "comparison_latest": [
+    {
+      "categoria": "5 moradores",
+      "valor": 4597.0
+    },
+    {
+      "categoria": "6 moradores ou mais",
+      "valor": 2225.0
+    },
+    {
+      "categoria": "Total",
+      "valor": 79305.0
+    }
+  ],
+  "category_distribution_latest": [
+    {
+      "categoria": "2 moradores",
+      "domicilios_mil": 23955.0,
+      "participacao_pct": 30.2
+    },
+    {
+      "categoria": "3 moradores",
+      "domicilios_mil": 20044.0,
+      "participacao_pct": 25.3
+    },
+    {
+      "categoria": "1 morador",
+      "domicilios_mil": 15633.0,
+      "participacao_pct": 19.7
+    },
+    {
+      "categoria": "4 moradores",
+      "domicilios_mil": 12851.0,
+      "participacao_pct": 16.2
+    },
+    {
+      "categoria": "5 moradores",
+      "domicilios_mil": 4597.0,
+      "participacao_pct": 5.8
+    },
+    {
+      "categoria": "6 moradores ou mais",
+      "domicilios_mil": 2225.0,
+      "participacao_pct": 2.8
+    }
+  ]
+}

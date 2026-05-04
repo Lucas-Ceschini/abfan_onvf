@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "posts/**/*.qmd"
+    - "!modelos/"
+    - "!modelos/**/*.qmd"
+
+website:
+  title: "Blog | Artigos e Estudos ABFAN"
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Blog
+      - href: estudos.qmd
+        text: Estudos
+      - href: arquivo.qmd
+        text: Arquivo
+      - href: guia-postagens.qmd
+        text: Publicar
+  page-footer:
+    left: "Artigos e Estudos da ABFAN"
+    right: "[abfanonvf.ocm](https://abfan.developforweb.com.br/)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

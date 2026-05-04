@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "posts/referencias-iniciais/index.html",
+    "href": "posts/referencias-iniciais/index.html",
+    "title": "Referências iniciais sobre família, demografia e políticas familiares",
+    "section": "",
+    "text": "Como base inicial do acervo, a ABFAN pode destacar referências públicas que dialogam com família, demografia e políticas familiares.\nAlguns pontos de partida:\n\nObservatório Nacional da Família\nSaúde, demografia e família\nPortal institucional da ABFAN\n\nNos próximos passos, este espaço pode incorporar resenhas, comentários e materiais produzidos diretamente pela associação."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog ABFAN",
+    "section": "",
+    "text": "Este blog em Quarto concentra publicações, notas, estudos e referências ligadas à Associação Brasileira de Famílias Numerosas.\nAcessar estudos Como publicar Visitar abfanonvf.ocm"
+  },
+  {
+    "objectID": "index.html#artigos-e-estudos-da-abfan",
+    "href": "index.html#artigos-e-estudos-da-abfan",
+    "title": "Blog ABFAN",
+    "section": "",
+    "text": "Este blog em Quarto concentra publicações, notas, estudos e referências ligadas à Associação Brasileira de Famílias Numerosas.\nAcessar estudos Como publicar Visitar abfanonvf.ocm"
+  },
+  {
+    "objectID": "index.html#publicações-recentes",
+    "href": "index.html#publicações-recentes",
+    "title": "Blog ABFAN",
+    "section": "Publicações Recentes",
+    "text": "Publicações Recentes"
+  },
+  {
+    "objectID": "estudos.html",
+    "href": "estudos.html",
+    "title": "Estudos",
+    "section": "",
+    "text": "Esta página reúne apenas as postagens classificadas como estudos. Use essa estrutura para publicar análises, resenhas, relatórios, notas técnicas e comentários sobre pesquisas."
+  },
+  {
+    "objectID": "estudos.html#publicações-de-estudos",
+    "href": "estudos.html#publicações-de-estudos",
+    "title": "Estudos",
+    "section": "",
+    "text": "Esta página reúne apenas as postagens classificadas como estudos. Use essa estrutura para publicar análises, resenhas, relatórios, notas técnicas e comentários sobre pesquisas."
+  },
+  {
+    "objectID": "arquivo.html",
+    "href": "arquivo.html",
+    "title": "Arquivo",
+    "section": "",
+    "text": "Todos os posts do blog da ABFAN ficam listados aqui. Esta página pode crescer com novos artigos, PDFs comentados, notícias institucionais e estudos publicados."
+  },
+  {
+    "objectID": "arquivo.html#arquivo-de-publicações",
+    "href": "arquivo.html#arquivo-de-publicações",
+    "title": "Arquivo",
+    "section": "",
+    "text": "Todos os posts do blog da ABFAN ficam listados aqui. Esta página pode crescer com novos artigos, PDFs comentados, notícias institucionais e estudos publicados."
+  },
+  {
+    "objectID": "guia-postagens.html",
+    "href": "guia-postagens.html",
+    "title": "Publicar Estudos",
+    "section": "",
+    "text": "O blog já está preparado para receber novas publicações de estudos no diretório posts/. Para cada novo estudo:\n\ncrie uma nova pasta em posts/ com um nome curto, como nome-do-estudo;\ncopie o arquivo modelo disponível em modelos/post-estudo.qmd;\nsalve esse conteúdo como posts/nome-do-estudo/index.qmd;\najuste título, data, descrição, categorias e texto;\nrode quarto render ou quarto preview."
+  },
+  {
+    "objectID": "guia-postagens.html#estrutura-pronta-para-novas-postagens",
+    "href": "guia-postagens.html#estrutura-pronta-para-novas-postagens",
+    "title": "Publicar Estudos",
+    "section": "",
+    "text": "O blog já está preparado para receber novas publicações de estudos no diretório posts/. Para cada novo estudo:\n\ncrie uma nova pasta em posts/ com um nome curto, como nome-do-estudo;\ncopie o arquivo modelo disponível em modelos/post-estudo.qmd;\nsalve esse conteúdo como posts/nome-do-estudo/index.qmd;\najuste título, data, descrição, categorias e texto;\nrode quarto render ou quarto preview."
+  },
+  {
+    "objectID": "guia-postagens.html#campos-recomendados",
+    "href": "guia-postagens.html#campos-recomendados",
+    "title": "Publicar Estudos",
+    "section": "Campos recomendados",
+    "text": "Campos recomendados\n\ntitle: título público do estudo\ndate: data da publicação\ndescription: resumo curto para a listagem\ncategories: use estudos e outras etiquetas como demografia, educação, políticas familiares\nauthor: autoria institucional ou individual"
+  },
+  {
+    "objectID": "guia-postagens.html#modelo",
+    "href": "guia-postagens.html#modelo",
+    "title": "Publicar Estudos",
+    "section": "Modelo",
+    "text": "Modelo\nO arquivo-base para novas publicações está em quarto/modelos/post-estudo.qmd."
+  },
+  {
+    "objectID": "posts/boas-vindas/index.html",
+    "href": "posts/boas-vindas/index.html",
+    "title": "Boas-vindas ao blog de artigos e estudos da ABFAN",
+    "section": "",
+    "text": "Este blog foi criado para reunir artigos, estudos, notas institucionais e referências sobre famílias numerosas no Brasil.\nEle funciona como um espaço editorial da ABFAN e pode receber:\n\nartigos próprios;\nanálises de políticas familiares;\ncomentários sobre pesquisas e publicações;\nlinks para materiais públicos e PDFs.\n\nA estrutura já está pronta para crescer com novas publicações ao longo do tempo.\nQuem quiser publicar novos estudos pode usar o modelo disponível em quarto/modelos/post-estudo.qmd."
+  }
+]
